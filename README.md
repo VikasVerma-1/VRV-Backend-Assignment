@@ -25,6 +25,10 @@
 
 
 
+---
+## ScreenShots
+<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-26%20235814.png">
+<img width="1680" alt="Screenshot 2024-11-25 at 4 01 15 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-27%20131448.png">
 
 ---
 
